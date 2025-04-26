@@ -3,10 +3,6 @@ package com.jlcindia.spring.entity;
 import java.math.BigDecimal;
 import javax.persistence.*;
 
-/* 
-* @Author : Srinivas Dande 
-* @company : Java Learning Center 
-* */
 @Entity
 @Table(name = "mybooks")
 public class Book {
